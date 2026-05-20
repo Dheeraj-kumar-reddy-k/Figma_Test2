@@ -1,1 +1,5 @@
-Testing
+display: inline-flex;
+padding: 114px 539px 512px 97px;
+flex-direction: column;
+align-items: flex-start;
+gap: 87px;
